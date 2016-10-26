@@ -1,4 +1,3 @@
-# Pgem
-kkkzzz
+#PasswordGenerator
 
-to dopiero cos nowego
+Podaj dlugosc hasla, a wygeneruje mocne haslo
